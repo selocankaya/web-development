@@ -1,0 +1,112 @@
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  position: relative;
+}
+.bottom-container {
+  background-color: #11999e;
+  padding: 50px 0 20px;
+}
+.contact-me {
+  background-color: wheat;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: bold;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+hr {
+  border: dotted #eaf6f6 6px;
+  width: 4%;
+  border-bottom: none;
+  margin: 100px auto;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+.bulut {
+  border-radius: 70%;
+}
+
+.footer-link,
+.btn,
+a,
+.hobbies2 {
+  color: #11999e;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.hobbies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.contact-message {
+  width: 25%;
+  margin: auto;
+  line-height: 2;
+}
+.footer-font {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.BUTTON {
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  border-radius: 13px;
+  height: 15px;
+  line-height: 15px;
+  color: #ffffff;
+  font-family: Verdana;
+  width: 150px;
+  font-size: 14px;
+  font-weight: 100;
+  padding: 1%;
+  background-color: #66bfbf;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 10px auto 10px auto;
+}

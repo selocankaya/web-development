@@ -1,0 +1,67 @@
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+    * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        background-color: #e4fbff;
+        font-family: 'Nunito', sans-serif;
+    }
+    
+    .section {
+        width: 40%;
+        height: 110vh;
+        margin: auto;
+        background-color: #F4F7F8;
+        padding-top: 1rem;
+    }
+    
+    .header {
+        text-align: center;
+        background-color: #5FCF80;
+        border-radius: 2rem;
+        width: 90%;
+        margin: auto;
+    }
+    
+    fieldset {
+        border-color: #5FCF80;
+        width: 80%;
+        margin: auto;
+    }
+    
+    .basic-info {
+        margin-top: 15px;
+    }
+    
+    .profile {
+        margin-top: 15px;
+    }
+    
+    .inputs {
+        border-style: none;
+        background-color: #E8EEEF;
+        width: 100%;
+        height: 2rem;
+    }
+    
+    .job-bio {
+        height: 6rem;
+    }
+    
+    .submit {
+        text-align: center;
+        margin: 20px auto;
+        background-color: #5FCF80;
+        width: 80%;
+        height: 4rem;
+    }
+    
+    .button {
+        color: white;
+        background-color: #5FCF80;
+        border-style: none;
+        margin: .6rem auto;
+        font-size: 2rem;
+        font-weight: 700;
+    }
